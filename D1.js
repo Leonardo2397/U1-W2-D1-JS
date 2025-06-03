@@ -61,5 +61,6 @@ console.log("sottrazione" + result);
 
 let name1 = "John";
 let name2 = "john";
+
 console.log(name1 !== name2);
 console.log(name1.toLowerCase() === name2.toLowerCase());
