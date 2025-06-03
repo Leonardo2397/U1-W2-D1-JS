@@ -44,6 +44,7 @@ let x = 12;
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
+const myName = "Leonardo";
 myName = "Ferrante";
 
 /* ESERCIZIO 6
